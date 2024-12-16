@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on DApps<br>Passionate make the world decentralize<br>I'm learning Defi
+I'm currently working on DApps<br>Passionate to make the world decentralize<br>I'm learning Defi
 
 
 ## 🌐 Socials:

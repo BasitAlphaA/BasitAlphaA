@@ -1,5 +1,25 @@
-# 💫 About Me:
-I'm currently working on DApps<br>Solidity Smart Contracts<br>Passionate to make the world decentralize<br>I'm learning Defi
+### 👋 About Me
+
+I'm a smart contract developer and Web3 security enthusiast focused on building and securing decentralized finance protocols. My work spans DeFi architecture, audit research, and gas optimizations — with a deep interest in secure-by-design systems and onchain reliability.
+
+🧠 **Currently exploring:**
+- Smart contract auditing (Code4rena, CodeHawks)
+- Attack surface analysis in EVM-based protocols  
+- Exploits, PoCs, and automated vulnerability detection  
+- L2 scaling, cross-chain messaging, and protocol design flaws
+
+🛠️ **Stack:**
+`Solidity` · `Foundry` · `Hardhat` · `Ethers.js` · `OpenZeppelin` · `Chainlink` · `ERC standards`
+
+🔎 **Building a track record through:**
+- Competitive audits  
+- Public PoCs & writeups  
+- GitHub repos showcasing real-world vulnerabilities and patches
+
+---
+
+Let’s connect, contribute, and make DeFi safer.
+
 
 
 ## 🌐 Socials:

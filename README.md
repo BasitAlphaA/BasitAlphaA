@@ -9,7 +9,7 @@ I'm a smart contract developer and Web3 security enthusiast focused on building 
 - L2 scaling, cross-chain messaging, and protocol design flaws
 
 🛠️ **Stack:**
-`Solidity` · `Foundry` · `Hardhat` · `Ethers.js` · `OpenZeppelin` · `Chainlink` · `ERC standards`
+`Solidity` · `Foundry` · `Hardhat` · `Ethers.js` · `OpenZeppelin` · `Chainlink` · `Node.js`
 
 🔎 **Building a track record through:**
 - Competitive audits  

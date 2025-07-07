@@ -1,6 +1,6 @@
 ### 👋 About Me
 
-I'm a smart contract developer and Web3 security enthusiast focused on building and securing decentralized finance protocols. My work spans DeFi architecture, audit research, and gas optimizations — with a deep interest in secure-by-design systems and onchain reliability.
+I'm a smart contract developer and Web3 security enthusiast focused on building and securing decentralized finance protocols. My work spans DeFi architecture, Crypto Assets(tokens), audit research, and gas optimizations — with a deep interest in secure-by-design systems and onchain reliability.
 
 🧠 **Currently exploring:**
 - Smart contract auditing (Code4rena, CodeHawks)
